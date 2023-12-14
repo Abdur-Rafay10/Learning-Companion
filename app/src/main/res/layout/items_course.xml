@@ -1,0 +1,46 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:fillViewport="true"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/course1_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Course Name 1"
+            android:background="#F0F8FF"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/course1_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Course 1 Description"
+            android:background="#F0F8FF"
+            android:textSize="16sp"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:id="@+id/course1_credits"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Credit Hours: 3"
+            android:background="#F0F8FF"
+            android:textSize="16sp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

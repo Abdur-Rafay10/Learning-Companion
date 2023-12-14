@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string-array name="menu_options">
+            <item>Quizzes</item>
+            <item>Lessons</item>
+        </string-array>
+
+        <string name="quiz_option">Quizzes</string>
+        <string name="lesson_option">Lessons</string>
+    </resources>

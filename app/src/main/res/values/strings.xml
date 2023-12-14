@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EDUCATIVE BUDDIES</string>
+    <string-array name="A">
+        <item>https://www.docsity.com/en/assignments/physics/mathematical-physics/</item>
+        <item>https://courses.lumenlearning.com/chemistryformajors/chapter/assignments/</item>
+        <item>https://www.w3schools.com/cpp/</item>
+        <item>https://www.w3schools.com/cpp/cpp_exercises.asp</item>
+    </string-array>
+    <string-array name="Q">
+        <item>https://upscgk.com/CollegeLevel</item>
+        <item> https://www.w3schools.com/cpp/cpp_quiz.asp</item>
+
+    </string-array>
+    <string-array name="L">
+        <item>https://video.idc-online.com/engineering-preparation/courses/6-engineering-preparation/9-preparation-course.html</item>
+        <item>https://www.udemy.com/course/learn-urdu-speaking-reading-writing-from-english/</item>
+
+    </string-array>
+</resources>

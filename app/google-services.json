@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599019071294",
+    "project_id": "educative-buddies",
+    "storage_bucket": "educative-buddies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599019071294:android:08de0764510ca57ea16e6f",
+        "android_client_info": {
+          "package_name": "com.example.educativebuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599019071294-opfp0umfkbt0vn5jnc1n44vkoifbi2cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmwdtOWdaeuIOu7U397Lx4ylEuQvYJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599019071294-opfp0umfkbt0vn5jnc1n44vkoifbi2cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
